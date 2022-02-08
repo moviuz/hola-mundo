@@ -2,4 +2,4 @@
 Mi primer repositorio de prueba.
 
 Autor: Fernando Orozco
-Fecha> 8 de Febrero
+Fecha: 8 de Febrero
